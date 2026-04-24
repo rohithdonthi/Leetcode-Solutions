@@ -8,3 +8,11 @@ A) The problem number and name.
 B) A brief description of the problem.
 
 C) The solution implemented in Python.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+<!---LeetCode Topics End-->
