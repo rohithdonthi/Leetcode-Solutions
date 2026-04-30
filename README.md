@@ -16,6 +16,7 @@ C) The solution implemented in Python.
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
