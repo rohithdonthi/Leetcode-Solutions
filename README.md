@@ -28,5 +28,6 @@ C) The solution implemented in Python.
 | [1193-monthly-transactions-i](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
