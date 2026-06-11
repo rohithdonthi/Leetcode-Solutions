@@ -25,6 +25,7 @@ C) The solution implemented in Python.
 | [0584-find-customer-referee](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0595-big-countries/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/0608-tree-node/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
