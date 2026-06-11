@@ -34,6 +34,7 @@ C) The solution implemented in Python.
 | [1193-monthly-transactions-i](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1321-restaurant-growth/) | Medium |
+| [1341-movie-rating](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rohithdonthi/Leetcode-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
